@@ -1,0 +1,4 @@
+pydantic>=2.8,<3
+requests>=2.31,<3
+pyarrow>=18,<27
+duckdb>=1.5,<2

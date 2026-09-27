@@ -1,0 +1,5 @@
+Läge: live
+Antal validerade dagar: 365
+Period: 2025-01-01–2025-12-31
+Plats: Malmö (55.6059, 13.0007)
+Källa: https://archive-api.open-meteo.com/v1/archive

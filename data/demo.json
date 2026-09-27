@@ -1,0 +1,11 @@
+{
+  "latitude": 59.33,
+  "longitude": 18.07,
+  "timezone": "Europe/Stockholm",
+  "daily_units": {"time": "iso8601", "temperature_2m_max": "°C", "precipitation_sum": "mm"},
+  "daily": {
+    "time": ["2023-01-01", "2023-01-02", "2023-01-03", "2023-01-04"],
+    "temperature_2m_max": [2.0, 4.0, -1.0, 3.0],
+    "precipitation_sum": [0.0, 2.5, 1.0, 0.5]
+  }
+}
